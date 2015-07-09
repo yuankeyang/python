@@ -1,0 +1,15 @@
+#license()
+#a=1+2j
+#b=1-2j
+#print(a*b);
+#print(r'C:\some\sdf')
+#word='Pyhton'
+#print(word[0],word[5]
+#license()
+#a=1+2j
+#b=1-2j
+#print(a*b);
+#print(r'C:\some\sdf')
+word='Pyhton'
+print(word[0],word[5])
+)
